@@ -1,8 +1,16 @@
-# AdventOfCode2023
+# AdventOfCode2023 🎄
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [staaaaaaaas][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
-In this repository, staaaaaaaas is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
+In this repository, staaaaaaaas is about to provide solutions for the puzzles using 🥶[Kotlin][kotlin]🥶 language.
+The solutions are located in the `src` folder.
+
+## ⛄ Status 
+
+| Day | Part 1 | Part 2 | Notes |
+|-----|:------:|:------:|-------|
+|  1  |⭐     |⭐      | Solved using RegEx |
+
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
