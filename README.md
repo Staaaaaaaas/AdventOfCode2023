@@ -9,7 +9,8 @@ The solutions are located in the `src` folder.
 
 | Day | Part 1 | Part 2 | Notes |
 |-----|:------:|:------:|-------|
-|  1  |⭐     |⭐      | Solved using RegEx |
+|  1  |⭐     |⭐      |  |
+|  2  |⭐     |⭐      |  |
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
