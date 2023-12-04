@@ -1,15 +1,6 @@
 import kotlin.math.min
 
 fun main() {
-    fun binPow(a: Int, b: Int): Int {
-        if(b < 0) return 0
-        if(b == 0) return 1
-        var res = binPow(a, b/2)
-        res *= res
-        if(b % 2 == 1)res *= a
-        return res
-    }
-
     fun solveLine(line: String): Int{
         val lists = line.replace("Card \\d+:\\s+".toRegex(), "").replace("\\s+".toRegex(), " ")
             .replace(" | ", "|")
@@ -18,7 +9,7 @@ fun main() {
     }
 
     fun part1(input: List<String>): Int {
-        return input.sumOf { binPow(2, solveLine(it) - 1) }
+        return input.sumOf { val t = solveLine(it); if(t==0) 0 else 1 shl (solveLine(it) - 1) }
     }
 
     fun part2(input: List<String>): Int {
