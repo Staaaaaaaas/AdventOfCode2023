@@ -7,11 +7,12 @@ The solutions are located in the `src` folder.
 
 ## ⛄ Status 
 
-| Day | Part 1 | Part 2 | Notes                                |
-|-----|:------:|:------:|--------------------------------------|
-| 1   |⭐     |⭐      |                                      |
-| 2   |⭐     |⭐      |                                      |
-| 3   |⭐     |⭐      | Probably overcomplicated my solution |
+| Day | Part 1 | Part 2 | Notes                                  |
+|-----|:------:|:------:|----------------------------------------|
+| 1   |   ⭐    |   ⭐    |                                        |
+| 2   |   ⭐    |   ⭐    |                                        |
+| 3   |   ⭐    |   ⭐    | Probably overcomplicated my solution   |
+| 4   |   ⭐    |   ⭐    | Definitely overcomplicated my solution |
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
