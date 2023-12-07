@@ -15,6 +15,7 @@ The solutions are located in the `src` folder.
 | 4   |   ⭐    |   ⭐    | Definitely overcomplicated my solution |
 | 5   |   ⭐    |   ⭐    | Big jump in difficulty today           |
 | 6   |   ⭐    |   ⭐    | Today was **much** simpler             |
+| 7   |   ⭐    |   ⭐    |              |
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
