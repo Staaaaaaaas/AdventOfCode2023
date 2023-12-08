@@ -19,3 +19,15 @@ fun String.md5() = BigInteger(1, MessageDigest.getInstance("MD5").digest(toByteA
  * The cleaner shorthand for printing output.
  */
 fun Any?.println() = println(this)
+
+/**
+ * Implementation of Greatest Common Divisor (GCD)
+ */
+fun gcd(a: Int, b: Int): Int {
+    if(b == 0) return a
+    return gcd(b, a%b)
+}
+fun gcd(a: Long, b: Long): Long {
+    if(b == 0L) return a
+    return gcd(b, a%b)
+}
