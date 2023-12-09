@@ -17,6 +17,7 @@ The solutions are located in the `src` folder.
 | [**6**](src/Day06.kt) |   ⭐    |   ⭐    | Today was **much** simpler             |
 | [**7**](src/Day07.kt) |   ⭐    |   ⭐    |                                        |
 | [**8**](src/Day08.kt) |   ⭐    |   ⭐    | Added `gcd` to [Utils](src/Utils.kt)   |
+| [**9**](src/Day09.kt) |   ⭐    |   ⭐    | Today's task was quite simple          |
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
