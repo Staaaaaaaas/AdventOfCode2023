@@ -20,7 +20,7 @@ The solutions are located in the `src` folder.
 | [**9**](src/Day09.kt)  |   ⭐    |   ⭐    | Today's task was quite simple                 |
 | [**10**](src/Day10.kt) |   ⭐    |   ⭐    | Ugliest code I've ever written, but it works! |
 | [**11**](src/Day11.kt) |   ⭐    |   ⭐    | A little slow, but again, works!              |
-
+| [**12**](src/Day12.kt) |   ⭐    |   ⭐    | Very cool DP problem!                         |
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
