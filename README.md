@@ -7,20 +7,22 @@ The solutions are located in the `src` folder.
 
 ## ⛄ Status 
 
-| Day                    | Part 1 | Part 2 | Notes                                         |
-|------------------------|:------:|:------:|-----------------------------------------------|
-| [**1**](src/Day01.kt)  |   ⭐    |   ⭐    |                                               |
-| [**2**](src/Day02.kt)  |   ⭐    |   ⭐    |                                               |
-| [**3**](src/Day03.kt)  |   ⭐    |   ⭐    | Probably overcomplicated my solution          |
-| [**4**](src/Day04.kt)  |   ⭐    |   ⭐    | Definitely overcomplicated my solution        |
-| [**5**](src/Day05.kt)  |   ⭐    |   ⭐    | Big jump in difficulty today                  |
-| [**6**](src/Day06.kt)  |   ⭐    |   ⭐    | Today was **much** simpler                    |
-| [**7**](src/Day07.kt)  |   ⭐    |   ⭐    |                                               |
-| [**8**](src/Day08.kt)  |   ⭐    |   ⭐    | Added `gcd` to [Utils](src/Utils.kt)          |
-| [**9**](src/Day09.kt)  |   ⭐    |   ⭐    | Today's task was quite simple                 |
-| [**10**](src/Day10.kt) |   ⭐    |   ⭐    | Ugliest code I've ever written, but it works! |
-| [**11**](src/Day11.kt) |   ⭐    |   ⭐    | A little slow, but again, works!              |
-| [**12**](src/Day12.kt) |   ⭐    |   ⭐    | Very cool DP problem!                         |
+| Day                    | Part 1 | Part 2 | Notes                                                          |
+|------------------------|:------:|:------:|----------------------------------------------------------------|
+| [**1**](src/Day01.kt)  |   ⭐    |   ⭐    |                                                                |
+| [**2**](src/Day02.kt)  |   ⭐    |   ⭐    |                                                                |
+| [**3**](src/Day03.kt)  |   ⭐    |   ⭐    | Probably overcomplicated my solution.                          |
+| [**4**](src/Day04.kt)  |   ⭐    |   ⭐    | Definitely overcomplicated my solution!                        |
+| [**5**](src/Day05.kt)  |   ⭐    |   ⭐    | Big jump in difficulty today.                                  |
+| [**6**](src/Day06.kt)  |   ⭐    |   ⭐    | Today was **much** simpler.                                    |
+| [**7**](src/Day07.kt)  |   ⭐    |   ⭐    |                                                                |
+| [**8**](src/Day08.kt)  |   ⭐    |   ⭐    | Added `gcd` to [Utils](src/Utils.kt).                          |
+| [**9**](src/Day09.kt)  |   ⭐    |   ⭐    | Today's task was quite simple.                                 |
+| [**10**](src/Day10.kt) |   ⭐    |   ⭐    | Ugliest code I've ever written, but it works!                  |
+| [**11**](src/Day11.kt) |   ⭐    |   ⭐    | A little slow, but again, works!                               |
+| [**12**](src/Day12.kt) |   ⭐    |   ⭐    | Very cool DP problem!                                          |
+| [**13**](src/Day13.kt) |   ⭐    |   ⭐    | The statement wasn't very clear at first, but I worked it out. |
+
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
 
