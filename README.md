@@ -22,6 +22,7 @@ The solutions are located in the `src` folder.
 | [**11**](src/Day11.kt) |   ⭐    |   ⭐    | A little slow, but again, works!                               |
 | [**12**](src/Day12.kt) |   ⭐    |   ⭐    | Very cool DP problem!                                          |
 | [**13**](src/Day13.kt) |   ⭐    |   ⭐    | The statement wasn't very clear at first, but I worked it out. |
+| [**14**](src/Day14.kt) |   ⭐    |   ⭐    | Kind of guessed the solution, probably not the intended way.   |
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
