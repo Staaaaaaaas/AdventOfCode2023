@@ -24,6 +24,7 @@ The solutions are located in the `src` folder.
 | [**13**](src/Day13.kt) |   ⭐    |   ⭐    | The statement wasn't very clear at first, but I worked it out. |
 | [**14**](src/Day14.kt) |   ⭐    |   ⭐    | Kind of guessed the solution, probably not the intended way.   |
 | [**15**](src/Day15.kt) |   ⭐    |   ⭐    | Easy problem, but fun!                                         |
+| [**16**](src/Day16.kt) |   ⭐    |   ⭐    | Lot's of graph traversal problems this year...                 |
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
