@@ -3,7 +3,7 @@
 Welcome to the Advent of Code[^aoc] Kotlin project created by [staaaaaaaas][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, staaaaaaaas is about to provide solutions for the puzzles using 🥶[Kotlin][kotlin]🥶 language.
-The solutions are located in the `src` folder.
+The solutions are located in the `src` folder. You can also click the number of the day you want to see the solution of. 
 
 ## ⛄ Status 
 
@@ -25,6 +25,8 @@ The solutions are located in the `src` folder.
 | [**14**](src/Day14.kt) |   ⭐    |   ⭐    | Kind of guessed the solution, probably not the intended way.   |
 | [**15**](src/Day15.kt) |   ⭐    |   ⭐    | Easy problem, but fun!                                         |
 | [**16**](src/Day16.kt) |   ⭐    |   ⭐    | Lot's of graph traversal problems this year...                 |
+| [**17**](src/Day17.kt) |   ⭐    |   ⭐    | Had an annoying bug, but was able to find it.                  |
+
 
 
 If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:

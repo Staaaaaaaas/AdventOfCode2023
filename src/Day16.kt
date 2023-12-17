@@ -1,7 +1,4 @@
 fun main() {
-    val dirI = arrayOf(0, -1, 0, 1)
-    val dirJ = arrayOf(-1, 0, 1, 0)
-
     fun dfs(i: Int, j: Int, direction: Int, input: List<String>, vis: Array<Array<Array<Int>>>){
         if(i !in input.indices || j !in input[i].indices) return
         if(vis[i][j][direction] == 1) return

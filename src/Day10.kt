@@ -11,9 +11,6 @@ fun main() {
         'F' to arrayOf(1, 0, 0, 1)
     )
 
-    val dirI = arrayOf(0, -1, 0, 1)
-    val dirJ = arrayOf(-1, 0, 1, 0)
-
     fun bfs(bfsQueue:ArrayDeque<State>, input: List<String>, vis: Array<Array<Int>>): Int{
         while(bfsQueue.isNotEmpty()) {
             val top = bfsQueue.removeFirst()

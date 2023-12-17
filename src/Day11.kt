@@ -2,9 +2,6 @@ class State2(val i: Int, val j: Int, val len: Long)
 
 fun main() {
 
-    val dirI = arrayOf(0, -1, 0, 1)
-    val dirJ = arrayOf(-1, 0, 1, 0)
-
     fun bfs(i: Int, j:Int, tgtI: Int, tgtJ: Int, expanded: List<String>, duplicates: Long): Long{
         val vis = Array(expanded.size) {Array(expanded[0].length) {false} }
         val bfsQueue = ArrayDeque<State2>()

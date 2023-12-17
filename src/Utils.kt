@@ -31,3 +31,8 @@ fun gcd(a: Long, b: Long): Long {
     if(b == 0L) return a
     return gcd(b, a%b)
 }
+/**
+ * Directions for grid traversing
+ */
+val dirI = arrayOf(0, -1, 0, 1)
+val dirJ = arrayOf(-1, 0, 1, 0)
