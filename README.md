@@ -26,6 +26,7 @@ The solutions are located in the `src` folder. You can also click the number of 
 | [**15**](src/Day15.kt) |   ⭐    |   ⭐    | Easy problem, but fun!                                         |
 | [**16**](src/Day16.kt) |   ⭐    |   ⭐    | Lot's of graph traversal problems this year...                 |
 | [**17**](src/Day17.kt) |   ⭐    |   ⭐    | Had an annoying bug, but was able to find it.                  |
+| [**18**](src/Day18.kt) |   ⭐    |   ⭐    | This one I definitely overcomplicated...                       |
 
 
 
