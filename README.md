@@ -24,7 +24,7 @@ The solutions are located in the `src` folder. You can also click the number of 
 | [**13**](src/Day13.kt) |   ⭐    |   ⭐    | The statement wasn't very clear at first, but I worked it out.   |
 | [**14**](src/Day14.kt) |   ⭐    |   ⭐    | Kind of guessed the solution, probably not the intended way.     |
 | [**15**](src/Day15.kt) |   ⭐    |   ⭐    | Easy problem, but fun!                                           |
-| [**16**](src/Day16.kt) |   ⭐    |   ⭐    | Lot's of graph traversal problems this year...                   |
+| [**16**](src/Day16.kt) |   ⭐    |   ⭐    | Lots of graph traversal problems this year...                   |
 | [**17**](src/Day17.kt) |   ⭐    |   ⭐    | Had an annoying bug, but was able to find it.                    |
 | [**18**](src/Day18.kt) |   ⭐    |   ⭐    | This one I definitely overcomplicated...                         |
 | [**19**](src/Day19.kt) |   ⭐    |   ⭐    | Not the cleanest implementation, but at this point I'm too tired |
